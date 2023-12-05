@@ -1,3 +1,9 @@
-a {
-    color: green;
+.two-colored-text::before {
+    content: "Web";
+    color: blue;
+}
+
+.two-colored-text::after {
+    content: " Studio";
+    color: red;
 }
