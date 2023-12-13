@@ -79,3 +79,10 @@ body {
     color: #404bbf;
     text-decoration: none;
 }
+
+.Section {
+    background-color: #2e2f42;
+    color: #ffffff;
+    font-size: 56px line-height: 1.07;
+    text-align: center;
+}
