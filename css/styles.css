@@ -1,10 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
-body {
+:root {
     font-family: 'Roboto', sans-serif;
 
     background-color: #FFFFFFFF;
     color: #434455;
+}
+
+
+body {
+
 
     </style>.two-colored-text::before {
         content: "Web";
