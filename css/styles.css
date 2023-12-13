@@ -1,9 +1,18 @@
-.two-colored-text::before {
-    content: "Web";
-    color: blue;
-}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
-.two-colored-text::after {
-    content: " Studio";
-    color: red;
-}
+body {
+    font-family: 'Roboto', sans-serif;
+
+    </style>.two-colored-text::before {
+        content: "Web";
+        color: blue;
+    }
+
+    .two-colored-text::after {
+        content: "Studio";
+        color: red;
+    }
+
+    .body {
+        color: #FFFFFFFF
+    }
