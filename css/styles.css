@@ -59,6 +59,7 @@ body {
 .list {
     list-style: none;
     text-decoration: none;
+    text-transform: capitalize;
 }
 
 .list li:first-child a.link {
