@@ -46,6 +46,9 @@ body {
 
 .link {
     text-decoration: none;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+
 }
 
 .list {
@@ -57,5 +60,9 @@ body {
 }
 
 .list li:first-child a.link:hover {
+    color: #404bbf;
+}
+
+.list li:first-child a.link:focus {
     color: #404bbf;
 }
