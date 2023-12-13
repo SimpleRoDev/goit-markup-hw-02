@@ -20,7 +20,7 @@ body {
     color: var(--main-color);
 }
 
-.web-Studio-logo {
+.web-studio-logo {
     color: var(--IRIS, #4D5AE5);
     font-family: Raleway, sans-serif;
     font-size: 18px;
@@ -29,6 +29,7 @@ body {
     line-height: 1.17;
     letter-spacing: 0.54px;
     text-transform: uppercase;
+    text-decoration: none;
 }
 
 .Studio {
@@ -40,6 +41,11 @@ body {
     lline-height: 1.17;
     letter-spacing: 0.54px;
     text-transform: uppercase;
+    text-decoration: none;
+}
+
+.link {
+    text-decoration: none;
 }
 
 .list {
