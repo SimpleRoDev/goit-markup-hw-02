@@ -137,7 +137,7 @@ body {
     letter-spacing: 0.02em;
     color: #2e2f42;
     text-transform: capitalize;
-    visibility: hidden;
+
 }
 
 .information-section .list:focus {
@@ -146,6 +146,7 @@ body {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+
 
 }
 
