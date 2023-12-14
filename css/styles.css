@@ -91,7 +91,7 @@ body {
 
 .button {
     background-color: #4D5AE5;
-    font-family: "Roboto";
+    font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -109,4 +109,5 @@ body {
     line-height: 1.07;
     text-align: center;
     text-transform: capitalize;
+    letter-spacing: 0.02em
 }
