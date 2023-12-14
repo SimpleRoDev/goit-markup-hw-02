@@ -89,6 +89,16 @@ body {
     text-transform: capitalize;
 }
 
+.titlu {
+    background-color: #2e2f42;
+    color: #ffffff;
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    text-transform: capitalize;
+    letter-spacing: 0.02em
+}
+
 .button {
     background-color: #4D5AE5;
     color: #ffffff;
@@ -102,14 +112,4 @@ body {
 
 .button:hover {
     background-color: #404bbf
-}
-
-.titlu {
-    background-color: #2e2f42;
-    color: #ffffff;
-    font-size: 56px;
-    line-height: 1.07;
-    text-align: center;
-    text-transform: capitalize;
-    letter-spacing: 0.02em
 }
