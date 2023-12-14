@@ -119,6 +119,10 @@ body {
     background-color: #404bbf;
 }
 
+.button-class:focus {
+    background-color: #404bbf;
+}
+
 .information {
     font-weight: 500;
     font-size: 20px;
