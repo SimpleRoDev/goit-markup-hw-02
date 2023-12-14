@@ -115,9 +115,6 @@ body {
     color: #ffffff;
 }
 
-.titlu .button-class:focus {
-    background-color: #404bbf;
-}
 
 .button-class:focus {
     background-color: #404bbf;
