@@ -218,3 +218,7 @@ body {
     color: #F4F4FD;
     letter-spacing: 0.02em;
 }
+
+.link.logo span.studios {
+    color: #f4f4f4fd;
+}
