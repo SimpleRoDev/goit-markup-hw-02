@@ -219,6 +219,6 @@ body {
     letter-spacing: 0.02em;
 }
 
-.footer .studio {
+.footer .studio:focus {
     color: #f4f4f4fd;
 }
