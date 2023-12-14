@@ -99,7 +99,7 @@ body {
     letter-spacing: 0.02em
 }
 
-.button {
+.button-class {
     background-color: #4D5AE5;
     color: #ffffff;
     font-family: 'Roboto', sans-serif;
@@ -110,7 +110,12 @@ body {
     cursor: pointer
 }
 
-.button:hover {
+.button-class:hover {
+    background-color: #404bbf;
+    color: #ffffff;
+}
+
+.titlu .button-class focus {
     background-color: #404bbf;
 }
 
@@ -122,6 +127,6 @@ body {
     color: #2e2f42;
 }
 
-.p {
+.paragraf {
     letter-spacing: 0.02em
 }
