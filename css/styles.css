@@ -120,7 +120,7 @@ body {
     background-color: #404bbf;
 }
 
-.information {
+.information-section {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -129,7 +129,7 @@ body {
     text-transform: capitalize;
 }
 
-.information .list:focus {
+.information-section .list:focus {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
