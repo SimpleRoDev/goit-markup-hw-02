@@ -144,3 +144,23 @@ body {
     letter-spacing: 0.02em;
 
 }
+
+
+
+
+.studios {
+    color: #f4f4f4fd;
+    font-family: Raleway, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 800;
+    lline-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.footer {
+    color: #f4f4f4fd;
+    background-color: #2e2f42;
+}
