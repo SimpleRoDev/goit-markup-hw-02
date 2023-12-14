@@ -2,12 +2,10 @@
 
 
 :root {
-    font-family: 'Raleway', sans-serif;
-    font-family: 'Roboto', sans-serif;
-    --background-color: #FFFFFFFF;
+    --background-color: #FFFFFF;
     --main-color: #434455;
+    font-family: 'Raleway', 'Roboto', sans-serif;
     font-size: 16px;
-    font-style: normal;
     font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.64px;
