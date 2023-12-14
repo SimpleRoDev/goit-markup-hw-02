@@ -129,20 +129,20 @@ body {
     text-transform: capitalize;
 }
 
-.paragraf {
-    letter-spacing: 0.02em;
-    font-size: 16px;
-    line-height: 1.5;
-    color: #434455;
-    text-transform: none;
-}
-
 .information .list:focus {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
 
+}
+
+.paragraf {
+    letter-spacing: 0.02em;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
+    text-transform: none;
 }
 
 .protfolio {
